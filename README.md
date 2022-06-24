@@ -1,1 +1,1 @@
-Start Screen and Main Menu of Shin Megiddo: A Game Project by Hakdugu Studios
+Start Screen and Main Menu Assets of Shin Megiddo: A Game Project by Hakdugu Studios
